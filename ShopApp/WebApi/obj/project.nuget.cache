@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VvpccWfpywTy1G38zf7HqZp8LCujPWLmevKJwAwYoswaa9ptxIUSrIYYrMAgIb2WtHW9LlqnekfDQ6lUOxxy6g==",
+  "dgSpecHash": "aWTtyqHV/CK0IHTRcpY+x0FxKOJpMoge78PI+8wqi9+njRXzXZBiKYnxeuLScBsL8/cD3j6EhKQTO8XIV7JMMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\polat\\source\\repos\\ShopApp\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\polat\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\polat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\polat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\polat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\polat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\polat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\polat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

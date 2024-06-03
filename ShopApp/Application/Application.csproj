@@ -11,4 +11,14 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Address\Commands\" />
+    <Folder Include="Orders\" />
+    <Folder Include="Product\Queries\" />
+  </ItemGroup>
+
 </Project>

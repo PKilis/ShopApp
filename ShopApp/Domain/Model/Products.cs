@@ -12,7 +12,7 @@ namespace Domain.Model
         {
             // only db
         }
-        private Products(string name, string description, double price, double quantity)
+        private Products(string name, string description, double price, int quantity)
         {
             ProductName = name;
             Description = description;
@@ -26,12 +26,13 @@ namespace Domain.Model
         public string Description { get; set; }
         public double Price { get; set; }
         public DateTime CreatedDate { get; set; }
-        public double Quantity { get; set; }
+        public int Quantity { get; set; }
         public virtual List<Orders> Orders { get; set; }
 
-        public static Products Create(string name, string description, double price, double quantity)
+        public static Products Create(string name, string description, double price, int quantity)
         {
             return new Products(name, description, price, quantity);
         }
+ 
     }
 }

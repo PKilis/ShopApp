@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\polat\\source\\repos\\ShopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|c:\\users\\polat\\source\\repos\\shopapp\\infrastructure\\persistence\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|c:\\users\\polat\\source\\repos\\shopapp\\application\\customer\\commands\\customerupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|solutionrelative:application\\customer\\commands\\customerupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|c:\\users\\polat\\source\\repos\\shopapp\\infrastructure\\persistence\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|c:\\users\\polat\\source\\repos\\shopapp\\application\\product\\commands\\productcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|solutionrelative:application\\product\\commands\\productcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|c:\\users\\polat\\source\\repos\\shopapp\\infrastructure\\persistence\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|c:\\users\\polat\\source\\repos\\shopapp\\application\\customer\\commands\\customercreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|solutionrelative:application\\customer\\commands\\customercreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|c:\\users\\polat\\source\\repos\\shopapp\\infrastructure\\persistence\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE51D5CC-C3C9-4A33-BBC8-AC2673732C9D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|c:\\users\\polat\\source\\repos\\shopapp\\application\\product\\commands\\productupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|solutionrelative:application\\product\\commands\\productupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|c:\\users\\polat\\source\\repos\\shopapp\\domain\\model\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|solutionrelative:domain\\model\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|c:\\users\\polat\\source\\repos\\shopapp\\application\\interfaces\\ishopappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F17A2FC-17BF-4B3C-A39D-D127B0F29FF6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ishopappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|c:\\users\\polat\\source\\repos\\shopapp\\domain\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|solutionrelative:domain\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|c:\\users\\polat\\source\\repos\\shopapp\\domain\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|solutionrelative:domain\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|c:\\users\\polat\\source\\repos\\shopapp\\domain\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|solutionrelative:domain\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|c:\\users\\polat\\source\\repos\\shopapp\\domain\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{911274A6-A46C-4302-8816-87097E214D78}|Domain\\Domain.csproj|solutionrelative:domain\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddressConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\AddressConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AddressConfiguration.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\AddressConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\AddressConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:38:14.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\CustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\CustomerConfiguration.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\CustomerConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\CustomerConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:38:05.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\ProductConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\ProductConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Title": "CustomerUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Customer\\Commands\\CustomerUpdateCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Customer\\Commands\\CustomerUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Customer\\Commands\\CustomerUpdateCommand.cs",
+              "RelativeToolTip": "Application\\Customer\\Commands\\CustomerUpdateCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:37:31.203Z",
+              "WhenOpened": "2024-06-03T19:20:32.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\OrderConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\OrderConfiguration.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Infrastructure\\Persistence\\OrderConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\OrderConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "ProductCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Product\\Commands\\ProductCreateCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Product\\Commands\\ProductCreateCommand.cs",
+              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Product\\Commands\\ProductCreateCommand.cs",
+              "RelativeToolTip": "Application\\Product\\Commands\\ProductCreateCommand.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:37:12.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:00:29.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "Domain\\Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Customer.cs",
-              "RelativeToolTip": "Domain\\Model\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomerCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Customer\\Commands\\CustomerCreateCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Customer\\Commands\\CustomerCreateCommand.cs",
+              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Customer\\Commands\\CustomerCreateCommand.cs",
+              "RelativeToolTip": "Application\\Customer\\Commands\\CustomerCreateCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:05:08.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T18:44:58.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Address.cs",
-              "RelativeDocumentMoniker": "Domain\\Model\\Address.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Address.cs",
-              "RelativeToolTip": "Domain\\Model\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "DocumentIndex": 3,
+              "Title": "ProductUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Product\\Commands\\ProductUpdateCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Product\\Commands\\ProductUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Product\\Commands\\ProductUpdateCommand.cs",
+              "RelativeToolTip": "Application\\Product\\Commands\\ProductUpdateCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:05:51.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T15:17:28.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Orders.cs",
-              "RelativeDocumentMoniker": "Domain\\Model\\Orders.cs",
-              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Orders.cs",
-              "RelativeToolTip": "Domain\\Model\\Orders.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "IShopAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Interfaces\\IShopAppDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IShopAppDbContext.cs",
+              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Application\\Interfaces\\IShopAppDbContext.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IShopAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:06:42.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T19:05:28.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Customers.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Customers.cs",
+              "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Customers.cs",
+              "RelativeToolTip": "Domain\\Model\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:48:25.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Products.cs",
               "RelativeDocumentMoniker": "Domain\\Model\\Products.cs",
               "ToolTip": "C:\\Users\\polat\\source\\repos\\ShopApp\\Domain\\Model\\Products.cs",
               "RelativeToolTip": "Domain\\Model\\Products.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:06:21.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T13:59:12Z"
             }
           ]
         }
